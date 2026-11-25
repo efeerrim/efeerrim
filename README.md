@@ -10,7 +10,3 @@ Digital Economics and Business Management student in Ancona. I build small apps,
 - **[HA LiveKit](https://github.com/efeerrim/halivekit)** · Home Assistant events as Live Activities on the iPhone lock screen. On the App Store.
 - **[FolioPause](https://github.com/efeerrim/foliopause)** · review-before-trash cleaner for Google Photos. On the Chrome Web Store.
 - **[Packlight](https://github.com/efeerrim/packlight)** · home/away modes for developer MacBooks, with a Raycast extension.
-
-SwiftUI · TypeScript · Python · Home Assistant · Cloudflare · Linux
-
-Turkish · English (C1) · Italian (A2-B1) · Japanese (N5)
